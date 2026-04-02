@@ -1,1 +1,1 @@
-// database alteration script for image_url column
+// Your content here

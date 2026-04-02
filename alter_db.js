@@ -1,1 +1,1 @@
-// database alteration script for car_type column
+// Your content here

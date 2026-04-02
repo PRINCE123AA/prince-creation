@@ -1,1 +1,11 @@
-// project dependencies
+{
+  "name": "prince-creation",
+  "version": "1.0.0",
+  "description": "A project description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
